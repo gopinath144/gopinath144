@@ -1,0 +1,4 @@
+cd existing_repo
+git remote add origin https://gitlab.com/gopinath143/moss-test-project.git
+git branch -M main
+git push -uf origin main
